@@ -1,8 +1,8 @@
-def mothers_day (your_name = )
+def mothers_day (your_name = "Mom")
   puts "Happy Mothers Day, #{your_name}!"
 end
 
-mothers_day
+mothers_day ("lily")
 
 
 
